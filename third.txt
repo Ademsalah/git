@@ -1,1 +1,1 @@
-this is contetnt of third.txt
+This is the content of third.txt
